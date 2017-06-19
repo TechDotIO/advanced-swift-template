@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "FileUtils",
+      "reason": null,
+      "repositoryURL": "https://github.com/nsomar/FileUtils",
+      "version": "0.1.1"
+    }
+  ],
+  "version": 1
+}
