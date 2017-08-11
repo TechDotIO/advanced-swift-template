@@ -2,6 +2,8 @@ title : Swift template
 plan:
   - title: Swift on Tech.io
     statement: markdowns/welcome.md
+#  - title: Another Page
+#    statement: markdowns/another-page.md
 projects:
   first-project:
     root: /swift-template
