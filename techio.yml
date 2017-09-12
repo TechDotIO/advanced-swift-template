@@ -1,11 +1,7 @@
-title: Advanced Swift template
+title: Swift Project
 plan:
-  - title: Swift on Tech.io
-    statement: markdowns/welcome.md
-#  - title: Another Page
-#    statement: markdowns/another-page.md
-
-# Settings for your programming projects and the associated Docker images
+- title: Swift on Tech.io
+  statement: markdowns/welcome.md
 projects:
   first-project:
     root: /swift-template
